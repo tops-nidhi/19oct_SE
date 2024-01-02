@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Nidhi batch/Software Engineering/19oct_SE/Module-2/Statment/Looping/Nested-Loop",
-      "program": "d:/Nidhi batch/Software Engineering/19oct_SE/Module-2/Statment/Looping/Nested-Loop/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

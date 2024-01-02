@@ -1,0 +1,31 @@
+1.Local variable
+->Define inside the function or any Block
+ex.void data()
+{
+	int no;//local variable
+	//INSIDE THE that function only
+}
+int main(){
+    int no = 90; 
+    {
+        int no= 89;
+        int a = 9;
+        printf("no = %d", no); //no = 89
+    }
+    printf("no = %d", no); //no = 90
+    printf("\na = %d", a); //can't use outside the function
+}
+------------------------------------------------------
+2.global variable
+->Define outside the all function
+ex.int no;//global variable
+//Everywhere
+void data(int no)
+{
+	//code
+}
+------------------------------------------------------
+3.Formal parameter
+->Define as parameter
+ex.void data(int no/*formal parameter*/)
+//inside the that function only
