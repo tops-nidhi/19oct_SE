@@ -1,0 +1,17 @@
+Definition:-
+i).Class is a collection of the data-member and member-function.
+ii).Class is a blueprint of the Object.
+----------------------------------------------------
+->Class  is never occupied the memory
+->Class can get memory by assignment of Object but that memory is object's.
+->Data member = a variable which was define inside that class
+->Member function = a function which was define inside that class
+------------------------------------------------------
+Syntax:-
+class Class_name
+{
+
+    /*data*/
+
+};
+----------------------------------------------------------------
