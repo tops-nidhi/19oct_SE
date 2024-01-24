@@ -6,7 +6,7 @@ public:
     int show()
     {
         int no = 100;
-        cout<<"Value of the data member is: "<<no<< endl;
+        cout<<"Value of the data member is: "<< this->no<< endl;
         cout<<"Value of the local variable is: "<<no;
         return no;
     }
