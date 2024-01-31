@@ -19,5 +19,7 @@ OR
 4. **Encapsulation**:-
     - Wrapping uot the data.
      
-5. Inheritance:-
+5. **Inheritance**:-
+   - Reusability of the code.
+  
 6. Polymorphism:-
