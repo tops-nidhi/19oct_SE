@@ -17,7 +17,7 @@ OR
     - Hide the background detail
   
 4. **Encapsulation**:-
-    - Wrapping uot the data.
+    - Wrapping up the data.
      
 5. **Inheritance**:-
    - Reusability of the code.
