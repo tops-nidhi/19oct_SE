@@ -22,4 +22,5 @@ OR
 5. **Inheritance**:-
    - Reusability of the code.
   
-6. Polymorphism:-
+6. **Polymorphism**:-
+   - One name many form
