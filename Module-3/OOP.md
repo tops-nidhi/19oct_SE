@@ -1,4 +1,4 @@
-OOP:
+**OOP**:
 - OOP has six concept
 
 1. **Class**
@@ -13,14 +13,13 @@ OR
 - Object is a instance of the class.
   
 3. **Abstraction**:- 
-    - Use to hide the background detail from the use which wae unnecessary for the user.
+    - Use to hide the background detail from the user which was unnecessary for the user.
     - Hide the background detail
   
 4. **Encapsulation**:-
-    - Wrapping uot the data.
+    - Wrapping up the data.
      
 5. **Inheritance**:-
    - Reusability of the code.
   
-6. **Polymorphism**:-
-   - One name many form
+6. Polymorphism:-
