@@ -23,3 +23,4 @@ OR
    - Reusability of the code.
   
 6. Polymorphism:-
+   - One name many form.
